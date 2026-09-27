@@ -1,0 +1,4 @@
+*.keras 
+*.pkl 
+*.csv 
+WELFake_Dataset/ 
